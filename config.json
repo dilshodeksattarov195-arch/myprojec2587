@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpender",
+        "uuid": 24110840,
+        "checksum": "ma8rq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
